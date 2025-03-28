@@ -1,4 +1,4 @@
-# SPRING 5. REACT - S5.Onboarding digital (React)
+# REACT - Onboarding digital
 ## Descripción del proyecto:
 
 Este proyecto es una aplicación interactiva desarrollada en React que guía al usuario a través de un proceso de onboarding digital. Incluye componentes dinámicos como indicadores, transiciones suaves y botones de navegación para garantizar una experiencia intuitiva y atractiva.
@@ -42,8 +42,8 @@ Para instalar este proyecto localmente:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/danilly7/s5onboardingDigital-react.git
-    cd s5onboardingDigital-react
+   git clone https://github.com/danilly7/digital-onboarding.git
+    cd digital-onboarding
    ``` 
    
 2. Instala las dependencias del proyecto:
